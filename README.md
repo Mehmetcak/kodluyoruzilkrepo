@@ -1,5 +1,4 @@
-![Lorem Picsum]([https://picsum.photos/200/300](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png))
-
+![image](https://global-uploads.webflow.com/6097e0eca1e875de53031ff6/6238af02680c186a78473fcc_emlakjet%20%20tw%20ln%20(3)-p-800.png)
 # Kodluyoruz Ilk Repo
 Bu repo [kodluyoruz](https://github.com/hakanyalcinkaya/kodluyoruz-frontend-101-egitimi) Front-End eğitiminde oluşturduğumuz ilk repo. README dosyası ve bir adet index.html barındırıyor.
 # Installation
